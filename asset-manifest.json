@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/cv-with-react/static/css/main.8d29b36b.chunk.css",
+    "main.js": "/cv-with-react/static/js/main.11655198.chunk.js",
+    "main.js.map": "/cv-with-react/static/js/main.11655198.chunk.js.map",
+    "runtime-main.js": "/cv-with-react/static/js/runtime-main.a4777e73.js",
+    "runtime-main.js.map": "/cv-with-react/static/js/runtime-main.a4777e73.js.map",
+    "static/js/2.e12af6fb.chunk.js": "/cv-with-react/static/js/2.e12af6fb.chunk.js",
+    "static/js/2.e12af6fb.chunk.js.map": "/cv-with-react/static/js/2.e12af6fb.chunk.js.map",
+    "index.html": "/cv-with-react/index.html",
+    "precache-manifest.522f909cd8b0793dbffbe8c0a432939d.js": "/cv-with-react/precache-manifest.522f909cd8b0793dbffbe8c0a432939d.js",
+    "service-worker.js": "/cv-with-react/service-worker.js",
+    "static/css/main.8d29b36b.chunk.css.map": "/cv-with-react/static/css/main.8d29b36b.chunk.css.map",
+    "static/js/2.e12af6fb.chunk.js.LICENSE.txt": "/cv-with-react/static/js/2.e12af6fb.chunk.js.LICENSE.txt",
+    "static/media/bootstrap(color).svg": "/cv-with-react/static/media/bootstrap(color).0d8d2334.svg",
+    "static/media/briefcase(white).svg": "/cv-with-react/static/media/briefcase(white).bf33167d.svg",
+    "static/media/cogs(white).svg": "/cv-with-react/static/media/cogs(white).86795cf2.svg",
+    "static/media/css(blue).svg": "/cv-with-react/static/media/css(blue).e6c01aec.svg",
+    "static/media/fb(white).svg": "/cv-with-react/static/media/fb(white).f4a8d890.svg",
+    "static/media/github(white).svg": "/cv-with-react/static/media/github(white).7bb69c5d.svg",
+    "static/media/graduation-cap(white).svg": "/cv-with-react/static/media/graduation-cap(white).064bfdba.svg",
+    "static/media/html5(orange).svg": "/cv-with-react/static/media/html5(orange).056f4632.svg",
+    "static/media/instagram(white).svg": "/cv-with-react/static/media/instagram(white).a806fe20.svg",
+    "static/media/js(yellow).svg": "/cv-with-react/static/media/js(yellow).f29eb928.svg",
+    "static/media/pasFoto.jpg": "/cv-with-react/static/media/pasFoto.143003bb.jpg",
+    "static/media/react(blue).svg": "/cv-with-react/static/media/react(blue).0755ab74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4777e73.js",
+    "static/js/2.e12af6fb.chunk.js",
+    "static/css/main.8d29b36b.chunk.css",
+    "static/js/main.11655198.chunk.js"
+  ]
+}
